@@ -6,10 +6,10 @@ const Button  = () => {
 
 return(
 
-    
- <button  href = "https://www.reactjs.org"> <h6>reactjs.org</h6></button>
+<div>
+ <button  href = "https://reactjs.org/"> <h6>reactjs.org</h6></button>
 
-
+</div>
 
     );
 };
