@@ -1,1 +1,20 @@
 /* All styles for your Card Components live here */
+.imgBanner{
+
+    
+    width: 600px;
+    height: auto;
+    margin-left: 8%;
+    align-items: flex-start;
+    margin-top: 2%;
+    border-radius: 5%;
+}
+
+
+.cardContent{
+    margin-left: 8%;
+    height:auto;
+    width: 600px;
+    border: 2px gainsboro solid;
+    margin-bottom: 20%;
+}
