@@ -2,6 +2,7 @@ import React from 'react';
 import './App.css';
 import HeaderContainer from './components/HeaderComponents/HeaderContainer';
 import CardContianer from './components/CardComponents/CardContainer';
+import Footer from './components/FooterComponents/Footer';
 
 
 
@@ -21,6 +22,7 @@ const App = () => {
   
   <HeaderContainer/>
   <CardContianer  />
+  <Footer/>
 
   
 

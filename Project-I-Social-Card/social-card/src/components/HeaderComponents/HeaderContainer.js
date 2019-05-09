@@ -13,7 +13,7 @@ const HeaderContainer = () => {
 
         return(
                         <div className = "mainHeader">
-                        <ImageThumbnail />
+                        <ImageThumbnail/>
 
 
                                     <div className = "title-content">
