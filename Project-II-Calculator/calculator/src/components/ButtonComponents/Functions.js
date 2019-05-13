@@ -17,8 +17,8 @@ const Functions = ()=> {
     return (
 
         <div className = "function" >
-        {functions.map(functon => (
-                <FunctionButton function ={functions} key={functions.function} />
+        {functions.map(functions => (
+                <FunctionButton functions ={functions.function} key={functions.function} />
               ))};
     </div>
         );
