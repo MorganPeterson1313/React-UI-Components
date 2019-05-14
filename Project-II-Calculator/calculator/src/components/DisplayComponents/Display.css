@@ -1,0 +1,20 @@
+.calcualtorDisplay{
+    max-width: 300px;
+    width: 30%;
+    height: 400px;
+
+    display: flex;
+    flex-wrap: wrap;
+
+   
+}
+
+.functionsDisplay{
+display: flex;
+margin-right: 16%;
+}
+
+.functions{
+    margin-top: 9%;
+    
+}

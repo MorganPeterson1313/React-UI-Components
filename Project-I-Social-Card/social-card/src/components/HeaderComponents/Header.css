@@ -1,1 +1,21 @@
 /* All styles for your header Components live here */
+.lambda-image{
+
+    width: 100px;
+    height: 100px;
+    margin-left: 40%;
+}
+.mainHeader{
+    display: flex;
+    max-width: 600px;
+    height: auto;
+}
+.header-content{
+height: auto;
+width: 600px;
+
+}
+.headerDate{
+display:flex;
+align-items: center ;
+}
